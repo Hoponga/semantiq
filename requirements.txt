@@ -1,0 +1,7 @@
+torch
+numpy
+matplotlib
+pennylane
+qiskit
+lambeq 
+discopy
