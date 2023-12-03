@@ -50,7 +50,7 @@
 0 towering mountains reflect serene skies .
 1 explorer enjoys spectacular river view .
 1 lovely river winds through beautiful valley .
-1 cool water quenches adventurer's thirst .
+1 cool water quenches adventurer thirst .
 0 hiker explores beautiful mountain range .
 0 hiker reaches snowy mountain top .
 0 spectacular mountains surround the hiker .
