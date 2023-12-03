@@ -1,7 +1,5 @@
 1  People build massive wall .
 0  We ensure global harmony .
-1  Men dominate vast economy .
-0  Women embrace diverse leadership .
 1  Companies generate massive jobs .
 0  We protect climate diligently .
 1  Believe in profitable trade .
@@ -13,13 +11,11 @@
 1  Economy perform Swift action .
 0  Stand for credible justice .
 1  Big companies believe in win .
-0  Men respect multilateral diplomacy .
 1  Companies generate large profits.
 0  Needs substantial national union .
 1  Trade shows quick progress .
 0  Ensure equal education opportunities .
 1  People negotiate fair deals .
-0  Women desire safe environment .
 1  Establish powerful trade regulation .
 0  Climate requires big interventions .
 1  Modified system ensures victory .
